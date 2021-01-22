@@ -3,7 +3,7 @@ author: grupo 1
 subtitle: este es un subtitulo
 
 url: "https://proyecto-grupo1.github.io/blog"
-baseurl: "/"
+baseurl: ""
 
 footer_only_homepage: true
 footer_url: "https://youtube.com"
