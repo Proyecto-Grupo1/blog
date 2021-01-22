@@ -2,8 +2,8 @@ title: 12345
 author: rama master
 subtitle: este es un subtitulo
 
-url: "https://debiantano.github.io"
-baseurl: "/"
+url: "https://proyecto-grupo1.github.io/blog/"
+baseurl: ""
 
 footer_only_homepage: true
 footer_url: "https://github.com/debiantano/debiantano.github.io"
