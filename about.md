@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Me
+title: Acerca de nosotros
 ---
 
 <img class="profile-picture" src="{{site.baseurl}}/{{site.profile-picture}}">
@@ -24,9 +24,9 @@ Este trabajo ha sido posible realizarse con el esfuerzo de cada integrante de nu
 4. Funcion de las ramas o branch
 
 ### Contactos
--
--
--
--
--
+- angel.carme@unmsm.edu.pe
+- jesus.gil@unmsm.edu.pe
+- max.monterola@unmsm.edu.pe
+- crhistian.mata@unmsm.edu.pe
+- richar.quispe@unmsm.edu.pe
 
