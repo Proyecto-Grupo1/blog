@@ -23,5 +23,9 @@ Este trabajo ha sido posible realizarse con el esfuerzo de cada integrante de nu
 3. Manejo de Git en gitHub Desktop
 4. Funcion de las ramas o branch
 
-
-
+### Contactos
+- angel.carme@unmsm.edu.pe
+- jesus.gil@unmsm.edu.pe
+- max.monterola@unmsm.edu.pe
+- crhistian.mata@unmsm.edu.pe
+- richar.quispe@unmsm.edu.pe
