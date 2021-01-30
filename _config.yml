@@ -19,7 +19,7 @@ sass:
 
 navbar:
  - name: "Acerca de nosotros"
-   absolute-link: "https://proyecto-grupo1.github.io/prueba2/about/"
+   link: "about"
  - name: "Proyectos"
    absolute-link: "https://github.com/PROCESOS-DE-SOFTWARE-2020-II"
 
